@@ -6,7 +6,7 @@
 
 
 ## Recording of webinar
-You can find the recording of the webinar [here](https://www.google.com)
+You can find the recording of the webinar [here](https://www.facebook.com/100666294786183/posts/153341619518650/)
 ## Reading list
 1. [gRPC docs](https://docs.microsoft.com/aspnet/core/grpc)
 2. [gRPC for WCF Developers](https://docs.microsoft.com/dotnet/architecture)
